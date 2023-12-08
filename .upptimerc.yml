@@ -16,11 +16,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime HZFX
   introTitle: "**Uptime** Website Horizonfx.id beserta Log Update Web."
-  introMessage: Log Update : 
+  introMessage: "Log Update 
   Update 1.0.1
   - Create Uptime server
   - Update Minor Bug Web
-  - Update Outlink App Horizonfx
+  - Update Outlink App Horizonfx"
   navbar:
     - title: Status
       href: /
