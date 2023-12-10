@@ -4,18 +4,20 @@
     "url": "https://times.horizonfx.id",
     "icon": "https://icons.duckduckgo.com/ip3/times.horizonfx.id.ico",
     "slug": "horizon-times",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 1680,
-    "timeWeek": 1680,
-    "timeMonth": 1680,
-    "timeYear": 1680,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1324,
+    "timeDay": 1324,
+    "timeWeek": 1324,
+    "timeMonth": 1324,
+    "timeYear": 1324,
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   },
   {
     "name": "DataHorizon",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2250,
-    "timeDay": 2250,
-    "timeWeek": 2250,
-    "timeMonth": 2250,
-    "timeYear": 2250,
+    "time": 1814,
+    "timeDay": 1814,
+    "timeWeek": 1814,
+    "timeMonth": 1814,
+    "timeYear": 1814,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 662,
-    "timeWeek": 662,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "time": 656,
+    "timeDay": 656,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {}
   }
 ]
