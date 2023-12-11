@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.horizonfx.id.ico",
     "slug": "horizon-times",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1557,
     "timeDay": 1557,
     "timeWeek": 1557,
     "timeMonth": 1557,
     "timeYear": 1557,
-    "dailyMinutesDown": {
-      "2023-12-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DataHorizon",
