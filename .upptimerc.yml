@@ -22,11 +22,6 @@ status-website:
   Update 1.0.2
   - Penambahan Fitur News Feed
   - Update App Horizonfx Bug Scrolling up Jadi Refresh"
-  introMessage: "Log Update 
-  Update 1.0.1
-  - Create Uptime server
-  - Update Minor Bug Web
-  - Update Outlink App Horizonfx"
   navbar:
     - title: Status
       href: /
