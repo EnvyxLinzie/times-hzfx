@@ -19,9 +19,10 @@ status-website:
   name: Uptime HZFX
   introTitle: "**Uptime** Website Horizonfx.id beserta Log Update Web."
   introMessage: "Log Update 
-  1.0.2
-  - Penambahan Fitur News Feed
-  - Update App Horizonfx Bug Scrolling up Jadi Refresh"
+  1.0.3
+  - Perombakan fitur web | only premium tools
+  - Closing signup data horizonfx
+  - Update App Horizonfx bottom menu untuk navigasi lebih mudah"
 
   navbar:
     - title: Status
