@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.horizonfx.id.ico",
     "slug": "horizon-times",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1921,
-    "timeDay": 1625,
-    "timeWeek": 2006,
-    "timeMonth": 1921,
-    "timeYear": 1921,
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1804,
+    "timeDay": 1356,
+    "timeWeek": 1842,
+    "timeMonth": 1804,
+    "timeYear": 1804,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 1
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1553,
-    "timeDay": 1335,
-    "timeWeek": 1512,
-    "timeMonth": 1553,
-    "timeYear": 1553,
+    "time": 1533,
+    "timeDay": 1278,
+    "timeWeek": 1486,
+    "timeMonth": 1533,
+    "timeYear": 1533,
     "dailyMinutesDown": {}
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://horizonfx.id",
     "icon": "https://icons.duckduckgo.com/ip3/horizonfx.id.ico",
     "slug": "horizon-fx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 1075,
-    "timeWeek": 966,
-    "timeMonth": 928,
-    "timeYear": 928,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 908,
+    "timeDay": 1038,
+    "timeWeek": 940,
+    "timeMonth": 908,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 1
     }
   }
 ]
