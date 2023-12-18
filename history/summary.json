@@ -4,53 +4,59 @@
     "url": "https://times.horizonfx.id",
     "icon": "https://icons.duckduckgo.com/ip3/times.horizonfx.id.ico",
     "slug": "horizon-times",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2050,
-    "timeDay": 2027,
-    "timeWeek": 2184,
-    "timeMonth": 2050,
-    "timeYear": 2050,
-    "dailyMinutesDown": {}
+    "time": 1970,
+    "timeDay": 1732,
+    "timeWeek": 2073,
+    "timeMonth": 1970,
+    "timeYear": 1970,
+    "dailyMinutesDown": {
+      "2023-12-18": 0
+    }
   },
   {
     "name": "DataHorizon",
     "url": "https://data.horizonfx.id",
     "icon": "https://icons.duckduckgo.com/ip3/data.horizonfx.id.ico",
     "slug": "data-horizon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1608,
-    "timeDay": 1431,
-    "timeWeek": 1571,
-    "timeMonth": 1608,
-    "timeYear": 1608,
-    "dailyMinutesDown": {}
+    "time": 1557,
+    "timeDay": 1298,
+    "timeWeek": 1515,
+    "timeMonth": 1557,
+    "timeYear": 1557,
+    "dailyMinutesDown": {
+      "2023-12-18": 0
+    }
   },
   {
     "name": "HorizonFx",
     "url": "https://horizonfx.id",
     "icon": "https://icons.duckduckgo.com/ip3/horizonfx.id.ico",
     "slug": "horizon-fx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 721,
+    "time": 815,
+    "timeDay": 754,
     "timeWeek": 841,
-    "timeMonth": 812,
-    "timeYear": 812,
-    "dailyMinutesDown": {}
+    "timeMonth": 815,
+    "timeYear": 815,
+    "dailyMinutesDown": {
+      "2023-12-18": 0
+    }
   }
 ]
