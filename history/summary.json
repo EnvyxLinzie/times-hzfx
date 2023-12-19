@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.horizonfx.id.ico",
     "slug": "horizon-times",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1804,
     "timeDay": 1356,
     "timeWeek": 1842,
     "timeMonth": 1804,
     "timeYear": 1804,
-    "dailyMinutesDown": {
-      "2023-12-18": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DataHorizon",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/horizonfx.id.ico",
     "slug": "horizon-fx",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 908,
     "timeDay": 1038,
     "timeWeek": 940,
     "timeMonth": 908,
     "timeYear": 908,
-    "dailyMinutesDown": {
-      "2023-12-18": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
