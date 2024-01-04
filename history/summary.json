@@ -4,19 +4,19 @@
     "url": "https://times.horizonfx.id",
     "icon": "https://icons.duckduckgo.com/ip3/times.horizonfx.id.ico",
     "slug": "horizon-times",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1473,
-    "timeDay": 1253,
-    "timeWeek": 1271,
-    "timeMonth": 1473,
-    "timeYear": 1473,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1459,
+    "timeDay": 1114,
+    "timeWeek": 1234,
+    "timeMonth": 1459,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2024-01-04": 0
+      "2024-01-04": 13
     }
   },
   {
