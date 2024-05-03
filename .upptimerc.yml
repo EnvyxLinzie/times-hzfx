@@ -5,7 +5,7 @@ repo: times-hzfx # The name of this repository
 sites:
   - name: HorizonTimes
     url: https://times.horizonfx.id
-  - name: cftc trader (beta)
+  - name: cftc trader (beta).
     url: https://cftc.horizonfx.id
   - name: HorizonFx
     url: https://horizonfx.id
